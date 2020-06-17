@@ -1,5 +1,5 @@
-import {base, keyName} from "/prosemirror/dist/w3c-keyname.es.js"
-import {Plugin} from "/prosemirror/dist/prosemirror-state.es.js"
+import {base, keyName} from "/prosemirror/devimports/w3c-keyname.es.js"
+import {Plugin} from "/prosemirror/devimports/prosemirror-state.es.js"
 
 // declare global: navigator
 
